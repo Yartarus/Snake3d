@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: bb39d81e177f9854ea3a4da7ad87b197
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Creato Display
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 45a715c5dd64bec42b45abedd9213a5e, type: 3}
+  - {fileID: 12800000, guid: a3edec96be77dad4bae3c83efc8080a5, type: 3}
+  - {fileID: 12800000, guid: 76265ba3aafc54b40a233fd574956f8e, type: 3}
+  - {fileID: 12800000, guid: 1b851f6b91063824abd7dec68d77a0ee, type: 3}
+  - {fileID: 12800000, guid: 45cfaf51472c3bd4788e1286be3d3fff, type: 3}
+  - {fileID: 12800000, guid: 3a7986fd5fc27694b83911db06a9d4f2, type: 3}
+  - {fileID: 12800000, guid: 513de877a81270b4eb52b0e7912b154c, type: 3}
+  - {fileID: 12800000, guid: c6bf0b173baeb5a4da4016ffb0f00745, type: 3}
+  - {fileID: 12800000, guid: b107aefb40bedc544a0090302028dcfa, type: 3}
+  - {fileID: 12800000, guid: 8045baec6229d5a4281be8e3f6092952, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
